@@ -1,0 +1,12 @@
+{
+  "name": "react-native-material-ui",
+  "displayName": "react-native-material-ui",
+  "expo": {
+    "name": "react-native-material-ui",
+    "slug": "react-native-material-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
